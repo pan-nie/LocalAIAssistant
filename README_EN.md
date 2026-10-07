@@ -5,7 +5,7 @@
 A cross-platform AI assistant desktop application based on Qt 6, supporting both GUI and CLI modes,
 with a built-in AI Girlfriend voice interaction module.
 
-Github repo: https://github.com/nathanpenny520/LocalAIAssistant.git 
+Github repo: https://github.com/pan-nie/LocalAIAssistant.git 
 
 Gitee repo:https://gitee.com/nathanpenny520/LocalAIAssistant.git
 
@@ -391,7 +391,7 @@ Push a `v`-prefixed tag to trigger 3-platform build→test→package→release:
 git tag v1.0.0 && git push origin v1.0.0
 ```
 
-All three platforms must pass; releases appear at [GitHub Releases](https://github.com/nathanpenny520/LocalAIAssistant/releases).
+All three platforms must pass; releases appear at [GitHub Releases](https://github.com/pan-nie/LocalAIAssistant/releases).
 
 ---
 

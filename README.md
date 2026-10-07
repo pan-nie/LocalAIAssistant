@@ -4,7 +4,7 @@
 
 一个基于 Qt 6 的跨平台 AI 助手桌面应用，支持 GUI 和 CLI 双模式，内置 AI 女友语音交互模块。
 
-GitHub仓库地址：https://github.com/nathanpenny520/LocalAIAssistant.git
+GitHub仓库地址：https://github.com/pan-nie/LocalAIAssistant.git
 
 Gitee 仓库地址：https://gitee.com/nathanpenny520/LocalAIAssistant.git
 
@@ -378,7 +378,7 @@ cd scripts && ./build.sh
 git tag v1.0.0 && git push origin v1.0.0
 ```
 
-三平台全部通过后自动发布到 [GitHub Releases](https://github.com/nathanpenny520/LocalAIAssistant/releases)。
+三平台全部通过后自动发布到 [GitHub Releases](https://github.com/pan-nie/LocalAIAssistant/releases)。
 
 ---
 
